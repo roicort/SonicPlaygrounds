@@ -1,4 +1,6 @@
-
+#Sci-Fi
+# Coded by Rodrigo Cortez
+# http://roicort.github.io/
 
 use_synth :sine
 
