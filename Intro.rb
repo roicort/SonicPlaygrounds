@@ -1,5 +1,6 @@
 #Intro
-
+# Coded by Rodrigo Cortez
+# http://roicort.github.io/
 
 use_synth :beep
 use_bpm 30
@@ -45,7 +46,3 @@ with_fx(:echo) do
     play_pattern_timed [62, 65, 58,57],[1.5], cutoff: rrand(40, 100), amp: 0.5, attack: 0, cutoff_max: 110
   end
 end
-
-# Coded by Rodrigo Cortez
-# http://roicort.github.io/
-
